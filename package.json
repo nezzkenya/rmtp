@@ -2,7 +2,7 @@
   "name": "rmtp",
   "version": "1.0.0",
   "main": "index.js",
-  "type": "module",
+  "type": "commonjs",
   "scripts": {
     "start": "node stream.js",
     "test": "nodemon stream.js"
